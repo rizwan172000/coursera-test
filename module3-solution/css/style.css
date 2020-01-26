@@ -1,0 +1,68 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    padding-top:100px;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: calisto MT bold;
+    font-weight: 700;
+    
+
+}
+
+.navbar{
+	background-color: rgb(60,60,60);
+	border-color: #080808;
+}
+
+/*footer {
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+}*/
+
+
+
+#settings-container{
+    margin-bottom:10px;
+
+}
+
+.navbar-brand{
+    font-size:25px;
+
+}
+
+@media(max-width:768px) {
+    #banner_content {
+        padding-bottom: 15%;
+        
+    }
+    
+}
+
+/*.remove_item_link{
+
+}*/
+p{
+    font-family: calisto MT italic;
+    
+
+}
+.panel-body{
+    font-size: 15px;
+    background-color: pink;
+}
